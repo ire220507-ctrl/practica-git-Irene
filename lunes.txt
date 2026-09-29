@@ -1,1 +1,2 @@
 "Hoy empezamos el curso de Git"
+"segunda frase" 
